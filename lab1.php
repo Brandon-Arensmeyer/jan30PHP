@@ -7,6 +7,9 @@
     <title>Lab 1</title>
 </head>
 <body>
+    <header>
+        <h1>Hello World</h1>
+    </header>
     <h3>PHP basics lab</h3>
     <?php
         $head1 = 'Catalog Number';
