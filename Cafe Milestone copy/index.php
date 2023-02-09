@@ -13,7 +13,7 @@
     <header>
         <?php
             include 'header/header.php';
-            echo 'hello Steve and B';
+            echo 'hello Steve and Brandon';
         ?>
         
     </header>
