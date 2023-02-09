@@ -13,6 +13,7 @@
     <header>
         <?php
             include 'header/header.php';
+            echo 'hello';
         ?>
         
     </header>
